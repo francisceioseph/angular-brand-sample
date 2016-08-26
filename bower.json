@@ -1,0 +1,25 @@
+{
+  "name": "brand-sample",
+  "authors": [
+    "Francisco José A. C. Souza <francisceioseph@gmail.com>"
+  ],
+  "description": "Exemplo de código para um curso customizável",
+  "main": "index.html",
+  "keywords": [
+    "tcc"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-ui-router": "^0.3.1"
+  }
+}
