@@ -89,4 +89,5 @@ node_modules jspm_packages
 # Optional REPL history
 .node_repl_history
 www/bower_components
+www/libs
 node_modules/
