@@ -91,3 +91,4 @@ node_modules jspm_packages
 www/bower_components
 www/libs
 node_modules/
+.idea/
